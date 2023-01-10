@@ -9,6 +9,11 @@ This repository contains scripts of three AWS Lambda Functions that I have creat
   <li>AddDragon - to report a new Dragon and add it to the list if it does not exist.</li>
  </ul>
 
-
+This repo also contains WebSite files to work with API:
+<ul>
+  <li>to login to API</li>
+  <li>to send a GET request to get list of Dragons (all, by Name or by Family)</li>
+  <li>to send a POST request to report a New Dragon</li>
+</ul>
 
 This is not for use of another learners but instead to demonstrate my skills obtained on this course.
